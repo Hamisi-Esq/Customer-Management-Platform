@@ -10,6 +10,3 @@ def products(request):
 
 def customers(request):
     return HttpResponse('Customers')
-
-def customes(request):
-    return HttpResponse('Customers')
